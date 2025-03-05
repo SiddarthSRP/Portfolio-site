@@ -5,7 +5,7 @@ An open-source user friendly, responsive and accessible portfolio template.
 
 - Fully Mobile responsive.
 - Supports light/dark theme.
-- Built with a11y in mind.
+- Built with accessibility in mind.
 - Modern design.
 - Multiple sections.
 - Sleek animations.
